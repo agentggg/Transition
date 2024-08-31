@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Transition/static/css/main.c6999b18.css",
-    "main.js": "/Transition/static/js/main.f716c1cd.js",
+    "main.css": "/Transition/static/css/main.20c17fa6.css",
+    "main.js": "/Transition/static/js/main.3c9251fb.js",
     "static/js/453.c33bdb17.chunk.js": "/Transition/static/js/453.c33bdb17.chunk.js",
     "index.html": "/Transition/index.html",
-    "main.c6999b18.css.map": "/Transition/static/css/main.c6999b18.css.map",
-    "main.f716c1cd.js.map": "/Transition/static/js/main.f716c1cd.js.map",
+    "main.20c17fa6.css.map": "/Transition/static/css/main.20c17fa6.css.map",
+    "main.3c9251fb.js.map": "/Transition/static/js/main.3c9251fb.js.map",
     "453.c33bdb17.chunk.js.map": "/Transition/static/js/453.c33bdb17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6999b18.css",
-    "static/js/main.f716c1cd.js"
+    "static/css/main.20c17fa6.css",
+    "static/js/main.3c9251fb.js"
   ]
 }
